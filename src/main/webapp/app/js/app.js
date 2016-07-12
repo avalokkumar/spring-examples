@@ -1,0 +1,1 @@
+var amgApp = angular.module("amgApp", []);
