@@ -1,12 +1,28 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  
+  <name>Ashok Motor Garage</name>
   <groupId>com.garage.amg</groupId>
   <artifactId>ashokmotorgarage</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>ashokmotorgarage Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  
+  <developers>
+  	<developer>
+  		<name>Alok Vishwakarma</name>
+  		<email>avalokkumar@gmail.com</email>
+  		<id>avalokkumar</id>
+  		<roles>
+  			<role>Developer</role>
+  			<role>Tester</role>
+  			<role>Moderator</role>
+  			<role>Administrator</role>
+  		</roles>
+  		<url>https://github.com/avalokkumar/spring-examples.git</url>
+  	</developer>
+  </developers>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
