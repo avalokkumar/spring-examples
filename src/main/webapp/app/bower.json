@@ -26,6 +26,8 @@
     "angular-cookies": "^1.5.7",
     "angular-animate": "^1.5.7",
     "firebase": "^3.2.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "angular-material": "^1.0.9",
+    "angular-hammer": "^1.2.4"
   }
 }
