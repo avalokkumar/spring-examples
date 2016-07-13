@@ -5,7 +5,7 @@
   <name>Ashok Motor Garage</name>
   <groupId>com.garage.amg</groupId>
   <artifactId>ashokmotorgarage</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
   
   <developers>

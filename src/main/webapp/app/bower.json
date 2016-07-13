@@ -1,0 +1,31 @@
+{
+  "name": "Ashok Motor Garage",
+  "homepage": "https://github.com/avalokkumar/spring-examples",
+  "authors": [
+    "Alok"
+  ],
+  "description": "Ashok Motor Garage was estb. in Aug, 1990. Initially, it used to do the fixing of bus's and truck's engine.",
+  "main": "",
+  "keywords": [
+    "garage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "angular-sanitize": "^1.5.7",
+    "angular-locale": "^0.1.10",
+    "angular-cookies": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "firebase": "^3.2.0",
+    "underscore": "^1.8.3"
+  }
+}
